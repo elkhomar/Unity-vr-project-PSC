@@ -1,2 +1,2 @@
 # Unity-vr-project-PSC
-test
+A physically accurate stone skipping simulation in virtual reality
